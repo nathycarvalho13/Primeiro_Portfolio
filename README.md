@@ -35,7 +35,7 @@ o download do meu currículo.
 
 <b>Seção "Sobre Mim"</b>: Detalhes sobre minha transição de Ciências Biológicas para Engenharia de Software, meu interesse pela área de desenvolvimento web e metas futuras.
 
-<b>Como Executar>
+<b>Como Executar</b>
 
 Faça o download do código-fonte.
 Abra o arquivo index.html em seu navegador.
