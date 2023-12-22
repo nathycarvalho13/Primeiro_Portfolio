@@ -34,7 +34,6 @@ uma experiência visualmente agradável em diferentes dispositivos.
 
 
 
-
 <h2>Estrutura do Código</h2>
 
 <b>Header</b>: Barra de navegação contendo links para seções específicas da página.
