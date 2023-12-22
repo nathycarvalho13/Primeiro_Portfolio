@@ -1,6 +1,3 @@
-# Primeiro_Website
-# Primeiro_Website
-
 <h1><b>Portfolio de Desenvolvimento Web</h1></b>
   
 Este é o código-fonte do meu primeiro portfólio,<br>
