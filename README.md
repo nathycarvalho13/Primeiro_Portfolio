@@ -26,6 +26,11 @@ diferentes codigos e pretendo ir fundo nessa jornada, pois a meta é ser Full St
 <b>Design com foto em photoshop</b>: Usei para criar a arte da minha foto. Garantindo<br> 
 uma experiência visualmente agradável em diferentes dispositivos.
 
+
+<div align="center">
+ <img src="https://github.com/nathycarvalho13/Primeiro_Website/assets/137252066/0c9fae46-e765-4bb0-a652-02f75028a8e2" width="700px" />
+</div>
+
 <h2>Estrutura do Código</h2>
 
 <b>Header</b>: Barra de navegação contendo links para seções específicas da página.
