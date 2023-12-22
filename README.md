@@ -1,4 +1,4 @@
-<h1><b>Portfolio de Desenvolvimento Web</h1></b>
+<h1><b>Portfólio de Desenvolvimento Web</h1></b>
   
 Este é o código-fonte do meu primeiro portfólio,<br>
 desenvolvido como parte do meu aprendizado em tecnologias web.<br>
@@ -30,6 +30,13 @@ uma experiência visualmente agradável em diferentes dispositivos.
 <div align="center">
  <img src="https://github.com/nathycarvalho13/Primeiro_Website/assets/137252066/0c9fae46-e765-4bb0-a652-02f75028a8e2" width="700px" />
 </div>
+
+<div align="center">
+ <img src="https://github.com/nathycarvalho13/Primeiro_Website/assets/137252066/3686b040-686c-4e96-b15c-84189488212d" />
+</div>
+<B>Efeito  window.alert em JavaScript, fazendo uma janela com uma mensagem de alerta </B>
+
+
 
 <h2>Estrutura do Código</h2>
 
@@ -63,11 +70,22 @@ simular a digitação. A cada iteração, um caractere é adicionado ao conteúd
 O tempo de espera (setTimeout) é multiplicado por i para criar um efeito de digitação mais <br>
 natural, onde caracteres são adicionados com um intervalo de tempo.
 
+<div align="center">
+ <img src="https://github.com/nathycarvalho13/Primeiro_Website/assets/137252066/b0a16e95-c0ec-4680-84a2-69e7f9657bd5" />
+</div>
+<b> Efeito de atraso para simular digitação</b>
+
+
 <b>const titulo = document.querySelector('.titulo-principal');</b>: Seleciona o elemento HTML com a<br>
 classe 'titulo-principal'. Este é o elemento que será animado.
 
 <b>ypeWrite(titulo);</b>: Chama a função typeWrite passando o título principal como argumento,<br>
 iniciando assim o efeito de digitação.
+
+<div align="center">
+ <img src="https://github.com/nathycarvalho13/Primeiro_Website/assets/137252066/d928161a-4b09-4e69-8734-d70cd1e5ea64" />
+</div>
+
 
 <h2>Observação</h2>
 
