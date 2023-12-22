@@ -73,7 +73,8 @@ natural, onde caracteres são adicionados com um intervalo de tempo.
 <div align="center">
  <img src="https://github.com/nathycarvalho13/Primeiro_Website/assets/137252066/b0a16e95-c0ec-4680-84a2-69e7f9657bd5" width="700px" />
 </div>
-<b> Efeito de atraso para simular digitação</b>
+<b> Efeito de atraso para simular digitação</b> <br> 
+<br>
 
 
 <b>const titulo = document.querySelector('.titulo-principal');</b>: Seleciona o elemento HTML com a<br>
