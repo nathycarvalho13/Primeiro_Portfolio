@@ -30,9 +30,11 @@ uma experiência visualmente agradável em diferentes dispositivos.
 <div align="center">
  <img src="https://github.com/nathycarvalho13/Primeiro_Website/assets/137252066/0c9fae46-e765-4bb0-a652-02f75028a8e2" width="700px" />
 </div>
+<br>
+<br>
 
 <div align="center">
- <img src="https://github.com/nathycarvalho13/Primeiro_Website/assets/137252066/3686b040-686c-4e96-b15c-84189488212d" />
+ <img src="https://github.com/nathycarvalho13/Primeiro_Website/assets/137252066/3686b040-686c-4e96-b15c-84189488212d" width="700px"  />
 </div>
 <B>Efeito  window.alert em JavaScript, fazendo uma janela com uma mensagem de alerta </B>
 
@@ -71,7 +73,7 @@ O tempo de espera (setTimeout) é multiplicado por i para criar um efeito de dig
 natural, onde caracteres são adicionados com um intervalo de tempo.
 
 <div align="center">
- <img src="https://github.com/nathycarvalho13/Primeiro_Website/assets/137252066/b0a16e95-c0ec-4680-84a2-69e7f9657bd5" />
+ <img src="https://github.com/nathycarvalho13/Primeiro_Website/assets/137252066/b0a16e95-c0ec-4680-84a2-69e7f9657bd5" width="700px"  />
 </div>
 <b> Efeito de atraso para simular digitação</b>
 
@@ -83,7 +85,7 @@ classe 'titulo-principal'. Este é o elemento que será animado.
 iniciando assim o efeito de digitação.
 
 <div align="center">
- <img src="https://github.com/nathycarvalho13/Primeiro_Website/assets/137252066/d928161a-4b09-4e69-8734-d70cd1e5ea64" />
+ <img src="https://github.com/nathycarvalho13/Primeiro_Website/assets/137252066/d928161a-4b09-4e69-8734-d70cd1e5ea64" width="700px" />
 </div>
 
 
