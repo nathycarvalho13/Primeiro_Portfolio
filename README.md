@@ -70,9 +70,6 @@ simular a digitação. A cada iteração, um caractere é adicionado ao conteúd
 O tempo de espera (setTimeout) é multiplicado por i para criar um efeito de digitação mais <br>
 natural, onde caracteres são adicionados com um intervalo de tempo.
 
-<div align="center">
- <img src="https://github.com/nathycarvalho13/Primeiro_Website/assets/137252066/b0a16e95-c0ec-4680-84a2-69e7f9657bd5" width="700px" />
-</div>
 <b> Efeito de atraso para simular digitação</b> <br> 
 <br>
 
@@ -83,9 +80,6 @@ classe 'titulo-principal'. Este é o elemento que será animado.
 <b>ypeWrite(titulo);</b>: Chama a função typeWrite passando o título principal como argumento,<br>
 iniciando assim o efeito de digitação.
 
-<div align="center">
- <img src="https://github.com/nathycarvalho13/Primeiro_Website/assets/137252066/d928161a-4b09-4e69-8734-d70cd1e5ea64" width="700px" />
-</div>
 
 
 <h2>Observação</h2>
